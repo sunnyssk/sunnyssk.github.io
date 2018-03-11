@@ -67,9 +67,9 @@ h2{
 /* Self-defined classes */
 .button_bordered{
     border: 2px #acf solid;
-    border-radius: 7px;
+    border-radius: 9px;
     color: #acf;
-    font-size: 1.2em;
+    font-size: 1.3em;
     margin: 0px 20px;
     padding: 8px 15px;
     text-decoration: none;
