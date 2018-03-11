@@ -46,25 +46,44 @@ body{
     margin-left: 0;
     margin-right: 0;
     font-family: Lato;
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 h1{
     font-family: Montserrat;
-    font-weight: bold;
     font-size: 2.5em;
+    font-weight: bold;
     text-align: center;
     margin-left: -100;
     margin-right: -100;
     text-shadow: rgba(0,0,0,0.5) 3px 3px 10px;
 }
 h2{
+    font-size: 1.1em;
     font-weight: normal;
-    font-size: medium;
     text-align: center;
 }
 
 /* Self-defined classes */
+.button_bordered{
+    border: 2px #acf solid;
+    border-radius: 7px;
+    color: #acf;
+    font-size: 1.2em;
+    margin: 0px 20px;
+    padding: 8px 15px;
+    text-decoration: none;
+    transition: background-color 0.2s,
+                color            0.2s,
+                border-color     0.2s;
+}
+.button_bordered:hover{
+    background: rgba(255, 255, 255, 0.2);
+    border-color: #fff;
+    /*box-shadow: 0px 0px 7px rgba(255, 255, 255, 0.3);*/
+    color: #fff;
+}
+
 .panel_black{
     margin-left: -100;
     margin-right: -100;
