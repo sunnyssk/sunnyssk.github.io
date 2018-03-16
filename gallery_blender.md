@@ -9,7 +9,9 @@ especially on the materials, lightings and use of particle systems.
 ## "Flag and Flame"
 
 <center>
+
 ![flame and flag](images/flame-flag-960x540.png)
+
 </center>
 
 This is a practice on UV mapping and quick smoke effect in blender. As the type

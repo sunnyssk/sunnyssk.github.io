@@ -11,7 +11,9 @@ kit.
 ## a-c Domain Polarization
 
 <center>
+
 ![PTO-a-c-domain](images/PTO-5x80x20-60e-12s.png)
+
 </center>
 
 This domain type is known as a-c domain structure observed in experiments. This
@@ -22,7 +24,9 @@ implementation. The potential used corresponds to PbTiO3 (lead titanite).
 ## Test Tiles
 
 <center>
+
 ![test-tiles](images/testcase-64cells.png)
+
 </center>
 
 Test for ODE solvers based on Fourier spectrum method requires some simple test
@@ -33,7 +37,9 @@ these choices.
 ## "Toxic Flame"
 
 <center>
+
 ![BFO-flame](BFO-100x100x50-109Wall-t1000-xy-part.png)
+
 </center>
 
 This picture actually came out by accident. This stucture was the intermediate
