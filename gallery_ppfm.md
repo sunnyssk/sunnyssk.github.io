@@ -10,11 +10,7 @@ kit.
 
 ## a-c Domain Polarization
 
-<center>
-
-![PTO-a-c-domain](images/PTO-5x80x20-60e-12s.png)
-
-</center>
+->![PTO-a-c-domain](images/PTO-5x80x20-60e-12s.png)<-
 
 This domain type is known as a-c domain structure observed in experiments. This
 domain structure was successfully reproduced in phase field simulation by Li et
@@ -23,11 +19,7 @@ implementation. The potential used corresponds to PbTiO3 (lead titanite).
 
 ## Test Tiles
 
-<center>
-
-![test-tiles](images/testcase-64cells.png)
-
-</center>
+->![test-tiles](images/testcase-64cells.png)<-
 
 Test for ODE solvers based on Fourier spectrum method requires some simple test
 cases. Other than random noises, some more obvious test cases are better
@@ -36,11 +28,7 @@ these choices.
 
 ## "Toxic Flame"
 
-<center>
-
-![BFO-flame](BFO-100x100x50-109Wall-t1000-xy-part.png)
-
-</center>
+->![BFO-flame](BFO-100x100x50-109Wall-t1000-xy-part.png)<-
 
 This picture actually came out by accident. This stucture was the intermediate
 result of BiFeO3, with a physically non-favourable initial polarization
