@@ -8,7 +8,7 @@ especially on the materials, lightings and use of particle systems.
 
 ## "Flag and Flame"
 
-->![flame and flag](images/flame-flag-960x540.png)<-
+<center><img src="images/flame-flag-960x540.png"/></center>
 
 This is a practice on UV mapping and quick smoke effect in blender. As the type
 of flame was set to "volume" rather than "particle", it could be seen that the
