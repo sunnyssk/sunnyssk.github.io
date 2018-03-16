@@ -28,7 +28,7 @@ these choices.
 
 ## "Toxic Flame"
 
-<center><img src="BFO-100x100x50-109Wall-t1000-xy-part.png" /></center>
+<center><img src="images/BFO-100x100x50-109Wall-t1000-xy-part.png" /></center>
 
 This picture actually came out by accident. This stucture was the intermediate
 result of BiFeO3, with a physically non-favourable initial polarization
